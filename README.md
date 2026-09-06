@@ -199,3 +199,6 @@ samms/
 | التوثيق | وثيقة SRS بإصدارين وسجل تغيير، ووثيقة اختبار — بالعربية والإنجليزية |
 | التصميم | 11 مخططاً: ERD بترميزَي تشن وقدم الغراب، حالات الاستخدام، DFD، BPMN، الأنشطة، التسلسل، الفئات |
 | التنفيذ | نظام ويب كامل بأربعة أدوار ولغتين |
+
+شرح النظام (فيديو)
+مشاهدة (https://youtu.be/IcedO_f0hZ4)  (https://youtu.be/IcedO_f0hZ4)شرح (https://youtu.be/IcedO_f0hZ4)  (https://youtu.be/IcedO_f0hZ4)النظام (https://youtu.be/IcedO_f0hZ4) على YouTube (https://youtu.be/IcedO_f0hZ4)
