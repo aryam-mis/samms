@@ -200,5 +200,6 @@ samms/
 | التصميم | 11 مخططاً: ERD بترميزَي تشن وقدم الغراب، حالات الاستخدام، DFD، BPMN، الأنشطة، التسلسل، الفئات |
 | التنفيذ | نظام ويب كامل بأربعة أدوار ولغتين |
 
-شرح النظام (فيديو)
-مشاهدة (https://youtu.be/IcedO_f0hZ4)  (https://youtu.be/IcedO_f0hZ4)شرح (https://youtu.be/IcedO_f0hZ4)  (https://youtu.be/IcedO_f0hZ4)النظام (https://youtu.be/IcedO_f0hZ4) على YouTube (https://youtu.be/IcedO_f0hZ4)
+
+لمشاهدة النظام فيديو:
+https://youtu.be/IcedO_f0hZ4?si=-My4Q2WXbp_bt_Zw
